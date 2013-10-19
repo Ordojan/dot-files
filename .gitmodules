@@ -1,0 +1,3 @@
+[submodule "dot-vim"]
+	path = dot-vim
+	url = ./dot-vim/
