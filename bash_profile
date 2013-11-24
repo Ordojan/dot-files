@@ -4,4 +4,5 @@
 export GOPATH=$HOME/projects/go
 export PATH=$PATH:$GOPATH/bin
 
-source /home/andrius/.profile
+export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/
+

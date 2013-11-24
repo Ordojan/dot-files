@@ -1,5 +1,5 @@
 alias mp=mousepad
-alias expl="exo-open --launch FileManager"
+alias expl="pantheon-files `pwd`"
 alias ..="cd .."
 alias cd..="cd .."
 alias cls=clear
